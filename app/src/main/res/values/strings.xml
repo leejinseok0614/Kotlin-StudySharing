@@ -1,23 +1,27 @@
 <resources>
     <string name="app_name">Study Sharing</string>
+
     <!-- Google Login -->
     <string name="google_client_id">780080544635-f8smsau36d79qj66vqqnur66n2njhsd3.apps.googleusercontent.com</string>
+
     <!-- Facebook Login -->
     <string name="facebook_app_id">688546365905015</string>
     <string name="fb_login_protocol_scheme">fb688546365905015</string>
     <string name="facebook_client_token">8567ffa4fd977af129dbfb23f1cc74af</string>
+
     <!--  Sign In  -->
-    <string name="email">이메일</string>
-    <string name="password">비밀번호</string>
+    <string name="email">EMAIL</string>
+    <string name="password">Password</string>
     <string name="signin_email">회원가입 또는 이메일로 로그인</string>
-    <string name="signin_google">구글 로그인</string>
-    <string name="signin_facebook">Facebook 로그인</string>
+    <string name="signin_google">Google 로그인</string>
+    <string name="signin_facebook">GitHub 로그인</string>
     <string name="signup_complete">Membership success</string>
     <string name="signin_complete">Login success</string>
     <string name="signout">로그아웃</string>
     <string name="signout_success">Signout success</string>
     <string name="signout_fail">Signout fail</string>
     <string name="signout_fail_null">Please enter your email and password</string>
+
     <!--  Bottom Navigation View  -->
     <string name="home">홈</string>
     <string name="calendar">달력</string>
@@ -25,6 +29,7 @@
     <string name="gallery">갤러리</string>
     <string name="favorite">favorite</string>
     <string name="account">계정</string>
+
     <!--  Account  -->
     <string name="post">게시물</string>
     <string name="following">팔로잉</string>
@@ -33,20 +38,25 @@
     <string name="follow_cancel">팔로우 취소</string>
     <string name="profile">Profile</string>
     <string name="count_0">0</string>
+
     <!--  Alarm  -->
-    <string name="alarm_favorite">님이 회원님의 스토리를 좋아합니다.</string>
-    <string name="alarm_comment">님이 회원님의 스토리에 댓글을 남겼습니다.</string>
-    <string name="alarm_follow">님이 회원님을 팔로우하기 시작했습니다.</string>
+    <string name="alarm_favorite">님이 회원님의 게시글을 추천합니다.</string>
+    <string name="alarm_comment">님이 회원님의 게시글에 의견을 남겼습니다.</string>
+    <string name="alarm_follow">님이 회원님을 추천하기 시작했습니다.</string>
+
     <!--  Comment  -->
     <string name="send">작성</string>
+
     <!--  Add Photo  -->
     <string name="upload_image">사진 업로드</string>
     <string name="pick_image">사진 가져오기</string>
     <string name="hint_image_content">문구 입력...</string>
     <string name="upload_success">사진 업로드 성공!</string>
     <string name="upload_fail">사진 업로드중 문제가 발생했습니다.</string>
+
     <!--  Toolbar  -->
     <string name="back">Back</string>
+
     <!--  etc  -->
     <item name="visible" type="id" />
     <item name="masked" type="id" />

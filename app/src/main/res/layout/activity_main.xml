@@ -44,7 +44,7 @@
                     android:id="@+id/toolbar_img"
                     android:layout_width="170dp"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/logo_title" />
+                    android:src="@drawable/logo" />
 
             </RelativeLayout>
 
@@ -83,32 +83,32 @@
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_home" />
+                android:icon="@drawable/layers" />
 
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_search" />
+                android:icon="@drawable/search" />
 
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_baseline_calendar_month_24" />
+                android:icon="@drawable/calendar" />
 
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_add_a_photo" />
+                android:icon="@drawable/photo" />
 
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_favorite_border" />
+                android:icon="@drawable/star" />
 
             <com.google.android.material.tabs.TabItem
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:icon="@drawable/ic_account" />
+                android:icon="@drawable/user" />
 
         </com.google.android.material.tabs.TabLayout>
 
