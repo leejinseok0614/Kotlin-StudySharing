@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudySharing">
         <activity
-            android:name=".viewmodel.ReportActivity"
+            android:name=".ReportActivity"
             android:exported="false" />
         <activity
             android:name=".ReportActivity"
@@ -41,12 +41,6 @@
             android:name=".MainActivity"
             android:exported="true" />
 
-        <meta-data
-            android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id" />
-        <meta-data
-            android:name="com.facebook.sdk.ClientToken"
-            android:value="@string/facebook_client_token" />
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
             android:resource="@drawable/push_icon" />
