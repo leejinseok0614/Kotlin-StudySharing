@@ -6,8 +6,9 @@
 
 ## 📷 스크린샷
 
-![1](https://user-images.githubusercontent.com/87289223/234354672-8fbb669c-f01c-450f-aae7-f8c9a8bf4711.PNG)
-![2](https://user-images.githubusercontent.com/87289223/234354680-bb541f75-7a32-4276-b2ba-94a29d137129.PNG)
+![KakaoTalk_20230521_131421637](https://github.com/leejinseok0614/StudySharing/assets/87289223/b0e1ec05-1a79-48de-8075-7b901903fb67)
+![KakaoTalk_20230521_131421637_02](https://github.com/leejinseok0614/StudySharing/assets/87289223/204ba3de-9afe-4931-ac2b-944de6757529)
+![KakaoTalk_20230521_131421637_01](https://github.com/leejinseok0614/StudySharing/assets/87289223/ae76d924-a509-4014-b69c-bbbc612e23a2)
 
 <br>
 <br>
